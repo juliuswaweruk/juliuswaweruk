@@ -1,5 +1,3 @@
-💻 Welcome to My GitHub Profile!
-
 Hi there! 👋 I'm an enthusiastic developer eager to learn and grow in web development. To create applications that provide solutions to businesses and institutions in Kenya and beyond! 🚀
 
 🌱 About Me
@@ -71,4 +69,4 @@ Tools & Workflow
 
 🤝 juliuswawerukiura@gmail.com
 
-Thanks for stopping by! Happy coding! 🚀
+
